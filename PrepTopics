@@ -1,5 +1,38 @@
-**TopicsToMaster:**
+TopicsToMaster:
+
+Why, When, How, What, Where
 
 1. Introduction
+    1.1 Java Different Version
+    1.2 How Java is different from other technologies
+    1.3 Features of Java 
+
+2. Introduction to Java Programming Environment
+   ->  How to install and set Path
+   ->  A simple Java Program
+   ->  Compiling & Executing Java Program
+   ->  Phases of Java Program
+   ->  Analysis of a Java Program
+   ->  Understanding Syntax and semnatic Error
+   ->  Runtime Exception
+   ->  Name of Java Source File
+   ->  Platform Independency
+   -> JRE, JDK, JVM
+   -> Text Editors
+   -> Consoles
+
+3. Fundamentals of Java Programming Lnaguage
+  -> naming convention
+  -> Control Statements
+  -> Comments
+  -> Blocks (Sttaic /Non-static instance)
+  -> Identifiers, Keywords and Literals
+  -> Primitive Data types, Range
+  -> Reference(User defined) Data type
+  -> Variables (primitive, Reference)
+  -> Type casting , Default
+  -> Operators
+
+   
 
 
